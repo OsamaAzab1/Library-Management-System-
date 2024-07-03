@@ -1,0 +1,30 @@
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.AssemblyReference.cache
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.Login.resources
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.Properties.Resources.resources
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.GenerateResource.cache
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.AssemblyInfoInputs.cache
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.AssemblyInfo.cs
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\Library Management System.exe
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\Library Management System.deps.json
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\Library Management System.runtimeconfig.json
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\Library Management System.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\Library Management System.pdb
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.CopyComplete
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\refint\Library Management System.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.pdb
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library Management System.genruntimeconfig.cache
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\ref\Library Management System.dll
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.Home_page.resources
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.Booksform.resources
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.studentsform.resources
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.librarians.resources
+C:\Users\oazab\OneDrive\Desktop\Library Management System\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.borrow.resources
